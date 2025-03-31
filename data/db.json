@@ -1,0 +1,59 @@
+{
+  "students": {
+    "first_name": "โชคอนันต์",
+    "last_name": "ภักศร",
+    "id": "66302520079",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "วิทยาลัยเทคโนโลยีภาคตะวันออก อีเทค"
+  },
+  "courses": [
+    {
+      "id": "01355102-64",
+      "name": "English for University Life",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418214-65",
+      "name": "Practicum in Software Development",
+      "credit": 1,
+      "grade": "A"
+    },
+    {
+      "id": "01418221-65",
+      "name": "Fundamentals of Database Systems",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418222-65",
+      "name": "Enterprise Information System",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418232-65",
+      "name": "Algorithm Design and Analysis",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418236-65",
+      "name": "Operating Systems",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418261-65",
+      "name": "Fundamentals of Artificial Intelligence",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "03752111-67",
+      "name": "Information Resources for Research",
+      "credit": 1,
+      "grade": "A"
+    }
+  ]
+}
