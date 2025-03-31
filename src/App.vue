@@ -5,7 +5,7 @@ import StdCourse from './components/StdCourse.vue'
 
 <template>
     <div>
-        <h1 class="mx-3">ข้อมูลนิสิต</h1>
+        <h1 class="mx-1">ข้อมูลนิสิต</h1>
         <StdAdd />
         <h1 class="mx-1">รายละเอียดการเรียน</h1>
         <StdCourse />
